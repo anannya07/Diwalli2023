@@ -85,8 +85,12 @@ section.content{
     animation: slideUpAndStay 1s ease-out forwards;
 }
 section.content h2 span h3{
-    color:rgb(230, 104, 49)
+    color:rgb(230, 104, 49);
+	font-size: 50px;
+	font-weight: lighter;
 }
 section.content h2 span h4{
     color:rgb(90, 236, 22);
+	font-size: 40px;
+	font-weight: lighter;
 }
